@@ -1,5 +1,6 @@
 .DS_Store
 /build
+/_build64
 /tags
 .idea
 .ycm_extra_conf.py
